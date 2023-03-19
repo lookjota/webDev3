@@ -11,7 +11,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false)
 
   return (
-    <nav  
+    <nav 
       className={`${
         styles.paddingX
       } w-full flex items-center py-5 bg-fixed top-0 z-20`}>
