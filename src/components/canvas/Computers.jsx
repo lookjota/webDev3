@@ -60,6 +60,6 @@ const ComputerCanvas = () => {
 }
 
 
-export default Computers
+// export default Computers
 
-// export default ComputerCanvas
+export default ComputerCanvas
